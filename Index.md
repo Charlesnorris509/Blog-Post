@@ -1,7 +1,7 @@
 ---
 layout: default
-# Leveraging AI for Development: System Design, Prompt Engineering, and Effectiveness Analysis
 ---
+# Leveraging AI for Development: System Design, Prompt Engineering, and Effectiveness Analysis
 
 <link rel="stylesheet" href="assets/css/style.css">
 
