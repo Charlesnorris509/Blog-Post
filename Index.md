@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{ "style.css" | relative_url }}">
+
 # Leveraging AI for Development: System Design, Prompt Engineering, and Effectiveness Analysis
 
 Artificial Intelligence (AI) and Large Language Models (LLMs) are transforming the landscape of software development. From automating repetitive tasks to assisting with complex problem-solving, these tools are reshaping how developers work. However, their effectiveness depends on how well they are integrated into workflows, the quality of prompts provided, and the contextual understanding they bring to the table. In this article, we explore a recent research study that delves into the potential of AI tools like GitHub Copilot, O3 from OpenAI, and Sonnet3.5, while also examining system design considerations, prompt engineering techniques, and the impact of Retrieval-Augmented Generative models (RAGs).
