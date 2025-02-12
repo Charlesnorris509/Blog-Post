@@ -30,4 +30,4 @@ exclude:
 
 # Optional: Custom CSS (link to style.css if you have one)
 css:
-  - "/style.css"
+  - "assets/css/style.css"
